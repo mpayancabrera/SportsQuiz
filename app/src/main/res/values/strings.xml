@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SportQuiz</string>
+    <string name="question1">How many points is required for a win in association croquet?</string>
+    <string name="answer11">18</string>
+    <string name="answer12">12</string>
+    <string name="answer13">26</string>
+    <string name="answer14">36</string>
+    <string name="question2">In Australian football, what is the maximum number of players allowed on the field at a time?</string>
+    <string name="answer21">36</string>
+    <string name="answer22">28</string>
+    <string name="answer23">14</string>
+    <string name="answer24">40</string>
+    <string name="question3">Which players have won five Wimbledon tennis titles?</string>
+    <string name="answer31">Bjorn Borg</string>
+    <string name="answer32">Pete Sampras</string>
+    <string name="answer33">Roger Federer</string>
+    <string name="answer34">Feliciano Lopez</string>
+    <string name="question4">Who ran the first four-minute mile?</string>
+    <string name="answer4">Name</string>
+    <string name="question5">In what sport would one find an Albion round?</string>
+    <string name="answer51">croquet</string>
+    <string name="answer52">tennis</string>
+    <string name="answer53">archery</string>
+    <string name="answer54">badminton</string>
+    <string name="res">Result</string>
+</resources>

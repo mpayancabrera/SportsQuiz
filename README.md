@@ -1,5 +1,5 @@
 # SportsQuiz
-SportsQuiz is an Android App. This project is part of the program Android scholarship from Udacity.
+SportsQuiz is an Android App. The goal of this project is to put in practice the learned lessons from the Android program from Udacity.
 
 In this project, I have put in practice the use of different activities and views as Checkbox, radiobuttom, cardViews or the ratingBar.
 
